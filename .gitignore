@@ -1,2 +1,4 @@
 *.pyc
 migrations
+__pycache__
+js/basic/social_auth_config.json
